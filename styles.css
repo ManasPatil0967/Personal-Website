@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(187, 245, 222);
+}
+hr{
+    background-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 125px;
+}
+img:hover{
+    height: 250px;
+}
+h1{
+    color: crimson;
+}
+h3{
+    color: crimson;
+}
+.hobbies{
+    font-style: italic;
+}
